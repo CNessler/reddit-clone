@@ -100,39 +100,3 @@ img {
 .ng-leave-active {
   opacity: 0;
 }
-/*.highlight {
-  background-color: yellow;
-}
-
-.notLong {
-  color: red;
-}
-
-.sale {
-  color: orange;
-}
-
-.player {
-  height:200px;
-  width: 200px;
-  background-color: blue;
-  display: inline-block;
-  color: white;
-  text-align: center;
-  font-size: 20px;
-}
-
-.winner {
-  background-color: green;
-}
-
-.loser {
-  background-color: red;
-}*/
-
-/*.playerTwo {
-  height: 200px;
-  width: 200px;
-  background-color: blue;
-  display: inline-block;
-}*/
